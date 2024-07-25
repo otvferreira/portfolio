@@ -9,7 +9,9 @@ module.exports = {
         '4FC3F7': '#4FC3F7',
         'FFFFFF': '#FFFFFF',
         'C1C1C1': '#C1C1C1',
-        '1A1A1A': '#1A1A1A'
+        '1A1A1A': '#1A1A1A',
+        'azul'  : '#004953',
+        '000000': '#000000'
       },
       spacing: {
         '2.875': '11.5px',
