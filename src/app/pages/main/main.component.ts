@@ -16,7 +16,6 @@ import { SobreComponent } from '../../components/sobre/sobre.component';
     TecComponent,
     ExperienceComponent,
     SobreComponent
-
   ],
   templateUrl: './main.component.html',
   styleUrl: './main.component.css'
